@@ -67,8 +67,8 @@ Note : Kalo Mau Work, Centang Kolom 1,2,3,5,6
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git https://github.com/Anang11042000/angel
+> cd angel
 ```
 
 Install the dependencies:
@@ -265,5 +265,6 @@ Fix Stuck on linux, install google chrome stable:
 * [`ItzNgga`](https://github.com/ItzNgga/wa-bot.js) 
 * [`Gimenz`](https://github.com/Gimenz) 
 * [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot) 
+* [`Briyan`](https://github.com/BryanRfly)
 
 # bot-elaina
