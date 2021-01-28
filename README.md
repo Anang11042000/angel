@@ -19,6 +19,16 @@
    <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
 </P>
 
+<h1 style="text-align: center;"><span style="color: red;"><strong>GROUP OFFICIAL ANANG GROUP</strong></span></h1>
+
+<p align='center'>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWHtCQwNUEth3cksNK6G3ZaqgCOdhMe3qSQ&usqp=CAU" width="128" height="128"/>
+</p>
+
+
+
+
+
 ## Information
 
 #### This script is open to anyone! If you want to add commands, please contribute / pull request! Buying and selling scripts is prohibited!
@@ -266,5 +276,7 @@ Fix Stuck on linux, install google chrome stable:
 * [`Gimenz`](https://github.com/Gimenz) 
 * [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot) 
 * [`Briyan`](https://github.com/BryanRfly)
+* [`fadhly`](https://github.com/MrK4ZUT0)
+* [`afis`](http://github.com/affisjunianto/botwasap)
 
 # bot-elaina
