@@ -24,11 +24,9 @@ ownerNumber = "6213xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/H4dJ6YT7jDJG0xzRrB36sn)
-- [RESELLER RDP](wa.me/62895325425229)
+- [WHATSAPP](https://wa.me/6285747479082)
+- [MY BOT](wa.me/6287736702685)
+- [WHATSAPP GROUP](https://chat.whatsapp.com/KFuMvtNlg8KGElrgWE9csx)
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
@@ -39,12 +37,11 @@ Apikey Location
 - [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
 
 ## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
+- [dana/gopay/pulsa]= 085747479082
 
 ## Getting Started
 
-### This project require NodeJS v14.
+### This project require NodeJS v15.
 This is a Bot Group Type, so you have to enter the bot into a group in order to fully use the command!
 
 ### FFMPEG
@@ -95,9 +92,6 @@ for pm2 :
 
 after running it you need to scan the qr
 
-### License
-
-- [Apache License 2.0](https://github.com/TobyG74/ElainaBOT/blob/main/LICENSE)
 
 ---
 ## 120+ Feature
@@ -192,6 +186,7 @@ after running it you need to scan the qr
 
 |   Group Only    |              Feature            |
 | :-------------: | :-----------------------------: |
+|       ✅        |   AFK                           |
 |       ✅        |   Promote User                  |
 |       ✅        |   Demote User                   |
 |       ✅        |   Kick User                     |
@@ -202,7 +197,7 @@ after running it you need to scan the qr
 |       ✅        |   Listblock                     |
 |       ✅        |   Listbanned                    |
 |       ✅        |   Listgroup                     |
-|       ✅        |   Get Elaina Admin list         |
+|       ✅        |   Get Bengeks Admin list        |
 |       ✅        |   Get owner group               |
 |       ✅        |   Get group info                |
 |       ✅        |   enable or disable nsfw command|
@@ -231,8 +226,8 @@ after running it you need to scan the qr
 |       ✅        |   Getses                        |
 |       ✅        |   Banchat                       |
 |       ✅        |   Maintenance                   |
-|       ✅        |   Add Admin Elaina              |
-|       ✅        |   Del Admin Elaina              |
+|       ✅        |   Add Admin Bengeks             |
+|       ✅        |   Del Admin Bengeks             |
 |       ✅        |   Block                         |
 |       ✅        |   Unblock                       |
 |       ✅        |   Join Group                    |
@@ -262,3 +257,4 @@ Fix Stuck on linux, install google chrome stable:
 * [`afis`](http://github.com/affisjunianto/botwasap)
 
 # bot-elaina
+TERIMA KASIH UNTUK BANG TOBZ.. MOHON MAAF SAYA SEDIKIT MERUBAH SCRIPT BOT ANDA..🙏🙏
