@@ -1,7 +1,7 @@
 
 ## Group official
 <p align='center'>
-<img src="https://scontent.fjog4-1.fna.fbcdn.net/v/t1.0-1/fr/cp0/e15/q65/118517765_103162444863014_4567675429464059589_n.jpg?_nc_cat=110&ccb=2&_nc_sid=dbb9e7&_nc_ohc=YWqo1Ba6zQIAX-eBssX&_nc_ht=scontent.fjog4-1.fna&tp=14&oh=0aafcf91cee0e2f445073d742111818d&oe=603E71D9" width="200" height="200"/>
+<img src="https://github.com/Anang11042000/dta/blob/main/FB_IMG_16105133488782792.jpg" width="200" height="200"/>
 </p>
 
 
